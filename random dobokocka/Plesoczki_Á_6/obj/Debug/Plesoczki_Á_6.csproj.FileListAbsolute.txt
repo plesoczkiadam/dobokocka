@@ -1,0 +1,8 @@
+D:\Távoktatás\Plesoczki_Á_05_18\Plesoczki_Á_6\Plesoczki_Á_6\bin\Debug\Plesoczki_Á_6.exe.config
+D:\Távoktatás\Plesoczki_Á_05_18\Plesoczki_Á_6\Plesoczki_Á_6\bin\Debug\Plesoczki_Á_6.exe
+D:\Távoktatás\Plesoczki_Á_05_18\Plesoczki_Á_6\Plesoczki_Á_6\bin\Debug\Plesoczki_Á_6.pdb
+D:\Távoktatás\Plesoczki_Á_05_18\Plesoczki_Á_6\Plesoczki_Á_6\obj\Debug\Plesoczki_Á_6.csproj.AssemblyReference.cache
+D:\Távoktatás\Plesoczki_Á_05_18\Plesoczki_Á_6\Plesoczki_Á_6\obj\Debug\Plesoczki_Á_6.csproj.SuggestedBindingRedirects.cache
+D:\Távoktatás\Plesoczki_Á_05_18\Plesoczki_Á_6\Plesoczki_Á_6\obj\Debug\Plesoczki_Á_6.csproj.CoreCompileInputs.cache
+D:\Távoktatás\Plesoczki_Á_05_18\Plesoczki_Á_6\Plesoczki_Á_6\obj\Debug\Plesoczki_Á_6.exe
+D:\Távoktatás\Plesoczki_Á_05_18\Plesoczki_Á_6\Plesoczki_Á_6\obj\Debug\Plesoczki_Á_6.pdb
